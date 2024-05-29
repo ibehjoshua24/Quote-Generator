@@ -1,0 +1,29 @@
+.container {
+    background-color: lightslategray;
+    color: #ffffff;
+    width: 500px;
+    height: auto;
+    margin-left: 50%;
+    text-align: center;
+    padding-top: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-radius: 40px;
+}
+
+.horizontal {
+    background-color: #ffffff;
+    width: 500px;
+    height: 2px;
+
+}
+
+.container button {
+    margin-top: 30px;
+}
+
+.container button:hover {
+    background-color: red;
+    color: #ffffff;
+}
